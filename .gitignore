@@ -1,3 +1,4 @@
 /data_ckpt
 /tf/data
 /torch/checkpoints
+/torch2tf/__pycache__
