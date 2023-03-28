@@ -1,3 +1,6 @@
 /data_ckpt
 /torch/checkpoints
 /tf
+/torch/VAE/data
+/torch/VAE/outputs
+*.jpg
